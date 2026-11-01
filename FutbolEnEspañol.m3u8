@@ -1,0 +1,66 @@
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/250px-ESPN_wordmark.svg.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Pack Futbol ARG",ESPN Premium
+http://181.232.188.21:8282/play/a05e/index.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/250px-ESPN_wordmark.svg.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Deportes",ESPN (Feed ARG)
+http://177.53.152.117:8000/play/a0ha/index.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/330px-ESPN2_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Deportes",ESPN 2 (SUR)
+http://170.247.204.9:8000/play/a04g/index.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/250px-ESPN3_Logo.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Deportes",ESPN 3 HD (Feed)
+http://45.182.22.53:8000/play/a0cl/index.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/250px-ESPN_4_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Deportes",ESPN 4 HD (Feed)
+http://45.182.22.53:8000/play/a08p/index.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/250px-ESPN_5_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Deportes",ESPN 5 HD (Feed)
+http://45.182.22.53:8000/play/a0ch/index.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1920px-ESPN_6_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail" group-title="Deportes",ESPN 6 (Feed)
+http://45.182.22.53:8000/play/a08e/index.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/250px-ESPN_5_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Deportes",ESPN 7 HD
+http://45.181.120.65:9087/play/051/index.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/DSports_logo_2022.png/330px-DSports_logo_2022.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Deportes",DSports DGO/ARG
+http://38.252.208.34:40000/play/a0at/index.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/DSports_logo_2022.png/330px-DSports_logo_2022.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Deportes",DSports DECO/ARG
+http://181.224.255.210:8001/play/a0s8/index.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/DSports_logo_2022.png/330px-DSports_logo_2022.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Deportes",DSports ARG
+http://45.186.254.75:8000/play/a0en/index.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/DSports_logo_2022.png/330px-DSports_logo_2022.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Deportes",DSports 2
+http://199.188.103.176:8000/play/a045/index.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/DSports_logo_2022.png/330px-DSports_logo_2022.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Deportes",DSports +
+http://38.210.3.64:8090/play/a0p6/index.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/TyC_Sports_Logo.svg/330px-TyC_Sports_Logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Deportes",TyC Sports (Feed ARG/PY)
+http://181.209.80.115:8000/play/a02s/index.m3u8
+#EXTINF:-1 group-title="LPF Play",LPF Play 1
+https://emitiendoenvivo.com/lpf/1.m3u8
+#EXTINF:-1 group-title="LPF Play",LPF Play 2
+https://emitiendoenvivo.com/lpf/2.m3u8
+#EXTINF:-1 group-title="LPF Play",LPF Play 3
+https://emitiendoenvivo.com/lpf/3.m3u8
+#EXTINF:-1 group-title="LPF Play",LPF Play 4
+https://emitiendoenvivo.com/lpf/4.m3u8
+#EXTINF:-1 group-title="LPF Play",LPF Play 5
+https://emitiendoenvivo.com/lpf/5.m3u8
+#EXTINF:-1 group-title="LPF Play",LPF Play 6
+https://emitiendoenvivo.com/lpf/6.m3u8
+#EXTINF:-1 group-title="LPF Play",LPF Play 7
+https://emitiendoenvivo.com/lpf/7.m3u8
+#EXTINF:-1 group-title="LPF Play",LPF Play 8
+https://emitiendoenvivo.com/lpf/8.m3u8
+#EXTINF:-1 group-title="LPF Play",LPF Play 9
+https://emitiendoenvivo.com/lpf/9.m3u8
+#EXTINF:-1 group-title="LPF Play",LPF Play 10
+https://emitiendoenvivo.com/lpf/10.m3u8
+#EXTINF:-1 group-title="LPF Play",LPF Play 11
+https://emitiendoenvivo.com/lpf/11.m3u8
+#EXTINF:-1 group-title="LPF Play",LPF Play 12
+https://emitiendoenvivo.com/lpf/12.m3u8
+#EXTINF:-1 group-title="LPF Play",LPF Play 13
+https://emitiendoenvivo.com/lpf/13.m3u8
+#EXTINF:-1 group-title="LPF Play",LPF Play 14
+https://emitiendoenvivo.com/lpf/14.m3u8
+#EXTINF:-1 group-title="LPF Play",LPF Play 15
+https://emitiendoenvivo.com/lpf/15.m3u8
+#EXTINF:-1 group-title="LPF Play",LPF Play 16
+https://emitiendoenvivo.com/lpf/16.m3u8
+#EXTINF:-1 group-title="LPF Play",LPF Play 17
+https://emitiendoenvivo.com/lpf/17.m3u8
+#EXTINF:-1 group-title="LPF Play",LPF Play 18
+https://emitiendoenvivo.com/lpf/18.m3u8
+#EXTINF:-1 group-title="Pack Futbol ARG
+http://200.85.51.158:64333/play/a03c/index.m3u8
